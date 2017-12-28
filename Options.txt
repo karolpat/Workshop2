@@ -1,0 +1,5 @@
+Choose one of the options:
+add -> add user to database
+edit -> edit user from database
+delete -> delete an user from database
+quit -> quit the program
